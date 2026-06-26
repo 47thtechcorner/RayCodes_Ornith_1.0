@@ -1,0 +1,15 @@
+FROM ./ornith-1.0-9b-Q4_K_M.gguf
+
+# ChatML template (common for Qwen-based models like Ornith-1.0)
+TEMPLATE """{{ if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{ if .Prompt }}<|im_start|>user
+{{ .Prompt }}<|im_end|>
+{{ end }}<|im_start|>assistant
+{{ .Response }}<|im_end|>"""
+
+# System prompt for agentic coding and reasoning
+SYSTEM """You are Ornith, a self-improving coding agent designed to write clean, high-performance, and correct code."""
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"

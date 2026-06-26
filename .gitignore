@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large LLM/GGUF model files
+*.gguf
+models/
+
+# Locally generated outputs
+prime_checker.py
