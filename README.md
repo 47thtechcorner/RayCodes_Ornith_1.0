@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://youtu.be/k3IWUjnCg7I">
-    <img src="https://img.youtube.com/vi/k3IWUjnCg7I/0.jpg" alt="Ornith 1.0 is HERE: The Open-Source AI Coding Agent That Fixes Its Own Code!">
+    <img src="https://img.youtube.com/vi/bjWnf1lbqM0/0.jpg" alt="Ornith 1.0 is HERE: The Open-Source AI Coding Agent That Fixes Its Own Code!">
   </a>
-  <h3>📺 <a href="https://youtu.be/k3IWUjnCg7I">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/bjWnf1lbqM0">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # Ornith 1.0 is HERE: The Open-Source AI Coding Agent That Fixes Its Own Code!
